@@ -1,0 +1,28 @@
+TITLE:            canada_simplified
+
+DESCRIPTION:      Canada country polygon with provincial units
+
+SOURCE:           ESRI
+
+ACCURACY:         low; dataset is highly generalized
+
+
+WARNING:          dataset intended for cartographic display at national
+                  or continental extent
+
+HISTORY:          original dataset in geographic NAD83 projection;
+                  projected to Albers NAD83 (BC MoE standards)
+
+PRODUCTION DATE:  13 June 2007 by Sunny Mak, BCCDC
+
+LAST REVISION:    13 June 2007 by Sunny Mak, BCCDC    
+
+DISTRIBUTION:     data acquired from ESRI as part of the ArcGIS license;
+                  do not redistribute this data
+
+
+DATA DICTIONARY:
+
+PROV    - province code
+NAME    - name of province
+POP2002 - 2002 population
