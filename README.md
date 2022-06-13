@@ -11,3 +11,10 @@ The script files will be added here.
 |4. |Model development| Development of machine learning models, cross validation techniques, dataset correlations  | [*model_development*](https://github.com/namanpaul/CanOSSEM/tree/master/model_development)|
 |5. |Spatial data for population, timezone, boundaries| Spatial data used for GPW population assignment, simplified digital boundaries, high resolution administrative boundaries, BC boundary, CanOSSEM base raster region assignment  | [*spatial_data*](https://github.com/namanpaul/CanOSSEM/tree/master/spatial_data)|
 |8. |CanOSSEM-related projects| Parallel exploration projects stemming from CanOSSEM  | [*side_hustles*](https://github.com/namanpaul/CanOSSEM/tree/master/side_hustles)|
+
+
+---
+*Contact Information*
+Naman Paul
+
+Email: naman.paul@bccdc.ca
