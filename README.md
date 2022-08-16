@@ -1,4 +1,4 @@
-# CanOSSEM
+# CanOSSEM - The Canadian Optimized Statistical Smoke Exposure Model
 Code repository for the Canadian Optimized Statistical Smoke Exposure Model (CanOSSEM)
 
 The script files will be added here. 

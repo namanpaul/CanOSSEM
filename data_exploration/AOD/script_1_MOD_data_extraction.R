@@ -39,7 +39,7 @@ input_errors <- input_errors %>%
 process_MOD <- function(MOD_input_path, MOD_output_path, satellite_name, year_val){
   
   #create the date range in julian days
-  date_range1 <- format(seq(as.Date(paste(year_val,"-01-02", sep = "")),
+  date_range1 <- format(seq(as.Date(paste(year_val,"-01-01", sep = "")),
                             as.Date(paste(year_val,"-01-02", sep = "")),
                             by=1), "%Y%j")
   
